@@ -1,1 +1,2 @@
- Create to-do list using file handling,List and string Manipulation.Implenment add/remove/view function.
+Create a REST API that manages user data,using tools Python ,Flask,Postman.
+It is used to REST,HTTP Methods,Flask.
